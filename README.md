@@ -100,27 +100,3 @@ Here are more results from tensorflow algorithm (from left to right are input, s
     <img src='examples/final_results/best11_t_1000.png' width='210'/>
     <img src='some_results/best11.png' width='210'/>
 </p>
-
-## Acknowledgement
-
-* This work was done when Yang Liu was a research intern at *Alibaba-Zhejiang University Joint Research Institute of Frontier Technologies*, under the supervision of [Prof. Mingli Song](http://person.zju.edu.cn/en/msong) and [Yongcheng Jing](http://yongchengjing.com/).
-
-* Our tensorflow implementation basically follows the [torch code](https://github.com/luanfujun/deep-photo-styletransfer).
-
-* We use [martinbenson](https://github.com/martinbenson)'s [python code](https://github.com/martinbenson/deep-photo-styletransfer/blob/master/deep_photo.py) to compute Matting Laplacian.
-
-## Citation
-If you find this code useful for your research, please cite:
-```
-@misc{YangPhotoStyle2017,
-  author = {Yang Liu},
-  title = {deep-photo-style-transfer-tf},
-  publisher = {GitHub},
-  organization={Alibaba-Zhejiang University Joint Research Institute of Frontier Technologies},
-  year = {2017},
-  howpublished = {\url{https://github.com/LouieYang/deep-photo-styletransfer-tf}}
-}
-```
-
-## Contact
-Feel free to contact me if there is any question (Yang Liu lyng_95@zju.edu.cn).
